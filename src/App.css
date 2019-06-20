@@ -1,0 +1,66 @@
+.homepage-first-div {
+    background-image: url("https://katehopewellsmith.com/wp-content/uploads/fine-art-wedding-photographer-Kate-hopewell-smith-1.jpg");
+    height: 100vh;
+    width: inherit;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#heading {
+    font-family: 'Cormorant', serif;
+    color: white;
+    font-size: 8em;
+    padding-top: 20%;
+}
+
+.navbar {
+    font-size: 2em;
+    text-align: right;
+}
+
+.ui.secondary.pointing.menu {
+    border-bottom: none;
+    font-family: 'Cormorant', serif;
+}
+
+.homepage-second-div {
+    height: 150vh;
+    width: inherit;
+    font-family: 'Cormorant', serif;
+}
+
+h2 {
+    font-family: 'Cormorant', serif;
+}
+
+#homepage-button {
+    padding-top: 24px;
+}
+
+#grid {
+    /* background-color: aqua; */
+    height: 110vh;
+    width: inherit;
+    font-family: 'Cormorant', serif;
+}
+
+#grid-left {
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/16/10/26/girl-1828536_960_720.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+
+.about-right-content {
+    margin-top: 100px;
+}
+
+#homepage-center {
+    text-align: center;
+}
+
+.ui.grid>.row {
+    margin-left: 25px;
+    margin-right: 25px;
+}
